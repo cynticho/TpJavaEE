@@ -1,0 +1,6 @@
+@import url('./main-layout.css');
+@import url('./views/image-view.css');
+    [theme~="dark"] {
+      --lumo-base-color: hsl(210, 82%, 6%);
+
+    }
